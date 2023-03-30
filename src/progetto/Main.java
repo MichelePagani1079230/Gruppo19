@@ -6,6 +6,9 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Prova");
 		System.out.println("Funziona");
+		
+		int a= 1;
+		
 	}
 
 }
