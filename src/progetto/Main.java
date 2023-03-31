@@ -12,6 +12,7 @@ public class Main {
 		System.out.println("Funziona");
 		System.out.println("https://github.com/MichelePagani1079230/Gruppo19.git");
 		int a= 1;
+		System.out.println("First commit");
 		
 	}
 
